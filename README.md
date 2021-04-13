@@ -56,7 +56,7 @@ The project will be a library that can be plugged into a web app or an android a
 ### Project Architecture
 
 <br/>
-<img src="Frontend/src/assets/images/Project_arch.png" >
+<img src="frontend/src/assets/images/Project_arch.png" >
 
 <br/>
 
