@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "myfont";
+  src: url("./assets/fonts/slice-medium-webfont.woff2") format("woff2");
+}
+
+body {
+  margin: 0;
+  font-family: "myfont";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
