@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Crio-Winter-of-Doing-2021/SLICE-T8"> -->
+  <a href="https://github.com/Crio-Winter-of-Doing-2021/SLICE-T8">
     <img src="frontend/src/assets/images/Logoreadme.png" >
   </a>
 
