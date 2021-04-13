@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Crio-Winter-of-Doing-2021/SLICE-T8"> -->
-    <img src="frontend/src/assets/images/Logoreadme.PNG" >
+    <img src="frontend/src/assets/images/Logoreadme.png" >
   </a>
 
   <h3 align="center">With npm package <a href="https://www.npmjs.com/package/slicedoclib">slicedoclib</a></h3>
