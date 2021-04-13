@@ -144,7 +144,7 @@ sliceDocLib (Here is the Main Library)
 # Getting Started
 
 <br/>
-Our main focus on <a href="https://github.com/Crio-Winter-of-Doing-2021/SLICE-T8/">sliceDocLib</a> folder mention in the folder structure. <br/>
+Our main focus on <a href="https://github.com/Crio-Winter-of-Doing-2021/SLICE-T8/tree/main/sliceDocLib">sliceDocLib</a> folder mention in the folder structure. <br/>
 <br/>
 To get started with we have created a frontend and backend to play with it. This example will help you to setting up your project locally.
 <br/>
