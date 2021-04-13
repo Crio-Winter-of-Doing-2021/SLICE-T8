@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Crio-Winter-of-Doing-2021/SLICE-T8"> -->
-    <img src="Frontend/src/assets/images/Logoreadme.PNG" >
+    <img src="frontend/src/assets/images/Logoreadme.PNG" >
   </a>
 
   <h3 align="center">With npm package <a href="https://www.npmjs.com/package/slicedoclib">slicedoclib</a></h3>
@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-<img src=Frontend/src/assets/images/Demo.gif />
+<img src=frontend/src/assets/images/Demo.gif />
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
